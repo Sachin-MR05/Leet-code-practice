@@ -23,6 +23,11 @@ for item in os.listdir(base_dir):
     if item in categories or item.startswith(".github"):
         continue
 
+    if not os.path.isdir(item_path):
+        continue
+    if item in categories or item.startswith(".github") or item == ".git":
+        continue
+
     # Extract problem name (remove number prefix like '48. ')
     if ". " in item:
         problem_name = item.split(". ", 1)[1]
