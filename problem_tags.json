@@ -4,5 +4,6 @@
   "Set Matrix Zeroes": "numpy",
   "Rank Scores": "pandas",
   "Combine Two Tables": "pandas",
+  "Department Highest Salary": "pandas",
   "Majority Element": "sklearn"
 }
