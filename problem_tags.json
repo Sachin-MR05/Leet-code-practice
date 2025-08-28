@@ -3,5 +3,6 @@
   "Rotate Image": "numpy",
   "Set Matrix Zeroes": "numpy",
   "Rank Scores": "pandas",
+  "Combine Two Tables": "pandas",
   "Majority Element": "sklearn"
 }
