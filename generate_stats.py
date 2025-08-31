@@ -169,15 +169,27 @@ def update_readme(stats):
     """Update README.md with statistics"""
     # Create stats directory if it doesn't exist
     os.makedirs('stats', exist_ok=True)
-    
+
     # Generate charts
     generate_bar_chart(stats, 'stats/problems_by_category.png')
     generate_ring_chart(stats, 'stats/average_stats.png')
-    
+
     # Read current README
     with open('README.md', 'r', encoding='utf-8') as f:
         content = f.read()
-    
+
+    # Remove old statistics section if it exists
+    stats_pattern = r'## 📊 LeetCode Practice Statistics.*?(?=## |\Z)'
+    content = re.sub(stats_pattern, '', content, flags=re.DOTALL)
+
+    # Group stats by folder
+    folder_groups = {}
+    for stat in stats:
+        folder = stat['folder']
+        if folder not in folder_groups:
+            folder_groups[folder] = []
+        folder_groups[folder].append(stat)
+
     # Create statistics section
     stats_section = f"""## 📊 LeetCode Practice Statistics
 
@@ -185,37 +197,39 @@ def update_readme(stats):
 
 ### 📋 Problems Summary
 
-| Folder | Problem | Runtime (s) | Space (MB) |
-|--------|---------|-------------|------------|
+| Category | Problem | Runtime (s) | Space (MB) |
+|----------|---------|-------------|------------|
 """
-    
-    # Add table rows
-    for stat in stats:
-        folder_link = f"[{stat['folder']}]({stat['folder']})"
-        problem_link = f"[{stat['problem']}]({stat['file_path']})"
-        runtime = f"{stat['runtime']:.2f}" if stat['runtime'] is not None else "N/A"
-        space = f"{stat['space']:.1f}" if stat['space'] is not None else "N/A"
-        
-        stats_section += f"| {folder_link} | {problem_link} | {runtime} | {space} |\n"
-    
+
+    # Add table rows with grouped categories
+    for folder, problems in folder_groups.items():
+        # Add category header row
+        folder_link = f"[{folder}]({folder})"
+        stats_section += f"| **{folder_link}** | | | |\n"
+
+        # Add problems as sub-rows
+        for stat in problems:
+            problem_link = f"[{stat['problem']}]({stat['file_path']})"
+            runtime = f"{stat['runtime']:.2f}" if stat['runtime'] is not None else "N/A"
+            space = f"{stat['space']:.1f}" if stat['space'] is not None else "N/A"
+
+            stats_section += f"| | {problem_link} | {runtime} | {space} |\n"
+
     # Add charts
     stats_section += f"""
+
 ### 📈 Activity Overview
 
-![Problems by Category](stats/problems_by_category.png)
+<img src="stats/problems_by_category.png" alt="Problems by Category" width="600">
 
 ### 🎯 Performance Metrics
 
-![Average Statistics](stats/average_stats.png)
+<img src="stats/average_stats.png" alt="Average Statistics" width="600">
 
 ---
 *Statistics generated automatically by GitHub Actions*
 """
-    
-    # Check if we need to add the ML/DL section first
-    if "## ⚡ Why ML/DL + LeetCode?" not in content:
-        content += "\n\n## ⚡ Why ML/DL + LeetCode?\n\n"
-    
+
     # Insert stats section after ML/DL section
     if "## ⚡ Why ML/DL + LeetCode?" in content:
         # Split content and insert stats after ML/DL section
@@ -232,9 +246,10 @@ def update_readme(stats):
         else:
             new_content = content + "\n\n" + stats_section
     else:
-        # Just append at the end
-        new_content = content + "\n\n" + stats_section
-    
+        # Add ML/DL section if it doesn't exist
+        content += "\n\n## ⚡ Why ML/DL + LeetCode?\n\n"
+        new_content = content + stats_section
+
     # Write updated content
     with open('README.md', 'w', encoding='utf-8') as f:
         f.write(new_content)
