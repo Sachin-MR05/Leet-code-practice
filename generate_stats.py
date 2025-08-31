@@ -154,8 +154,7 @@ def update_readme(stats):
         # Add category header row
         encoded_folder = quote(folder)
         folder_link = f"[{folder}]({encoded_folder})"
-        stats_section += f"| **{folder_link}** | | | |
-"
+        stats_section += f"| **{folder_link}** | | | |\n"
 
         # Add problems as sub-rows
         for stat in problems:
@@ -165,8 +164,7 @@ def update_readme(stats):
             runtime = f"{stat['runtime']:.2f}" if stat['runtime'] is not None else "N/A"
             space = f"{stat['space']:.1f}" if stat['space'] is not None else "N/A"
 
-            stats_section += f"| | {problem_link} | {runtime} | {space} |
-"
+            stats_section += f"| | {problem_link} | {runtime} | {space} |\n"
 
     # Insert stats section after ML/DL section
     if "## ⚡ Why ML/DL + LeetCode?" in content:
