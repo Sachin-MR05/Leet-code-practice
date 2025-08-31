@@ -19,7 +19,7 @@ By solving DSA problems, I’m strengthening the **computational thinking** need
 
 ## 📊 LeetCode Practice Statistics
 
-*Last updated: 2025-08-31 04:58:13*
+*Last updated: 2025-08-31 05:00:07*
 
 ### 📋 Problems Summary
 
@@ -46,7 +46,16 @@ By solving DSA problems, I’m strengthening the **computational thinking** need
 ---
 *Statistics generated automatically by GitHub Actions*
 
+## 📈 Activity Overview
 
+<img src="stats/problems_by_category.png" alt="Problems by Category" width="600">
+
+### 🎯 Performance Metrics
+
+<img src="stats/average_stats.png" alt="Average Statistics" width="600">
+
+---
+*Statistics generated automatically by GitHub Actions*
 
 ## 📆 Daily Routine
 
