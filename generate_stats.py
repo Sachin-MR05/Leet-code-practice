@@ -8,9 +8,6 @@ import os
 import json
 import re
 import subprocess
-import matplotlib.pyplot as plt
-import pandas as pd
-import numpy as np
 from datetime import datetime
 import glob
 
@@ -108,66 +105,10 @@ def get_folder_stats():
 
     return stats
 
-def generate_bar_chart(stats, output_path):
-    """Generate bar chart showing problems per category"""
-    df = pd.DataFrame(stats)
-    category_counts = df['folder'].value_counts()
-    
-    plt.figure(figsize=(10, 6))
-    category_counts.plot(kind='bar', color='skyblue')
-    plt.title('LeetCode Problems by Category')
-    plt.xlabel('Category')
-    plt.ylabel('Number of Problems')
-    plt.xticks(rotation=45)
-    plt.tight_layout()
-    plt.savefig(output_path, dpi=100, bbox_inches='tight')
-    plt.close()
-
-def generate_ring_chart(stats, output_path):
-    """Generate ring chart showing average runtime and space"""
-    df = pd.DataFrame(stats)
-    
-    # Calculate averages (excluding None values)
-    avg_runtime = df['runtime'].dropna().mean() if not df['runtime'].dropna().empty else 0
-    avg_space = df['space'].dropna().mean() if not df['space'].dropna().empty else 0
-    
-    # Create ring chart
-    fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(12, 5))
-    
-    # Runtime ring chart
-    if avg_runtime > 0:
-        ax1.pie([avg_runtime, max(0, 10 - avg_runtime)], 
-                labels=[f'{avg_runtime:.1f}s', ''], 
-                colors=['lightcoral', 'lightgray'],
-                startangle=90)
-        ax1.set_title('Average Runtime (seconds)')
-    else:
-        ax1.text(0.5, 0.5, 'No runtime data', ha='center', va='center')
-        ax1.set_title('Average Runtime')
-    
-    # Space ring chart
-    if avg_space > 0:
-        ax2.pie([avg_space, max(0, 100 - avg_space)], 
-                labels=[f'{avg_space:.1f}MB', ''], 
-                colors=['lightgreen', 'lightgray'],
-                startangle=90)
-        ax2.set_title('Average Space (MB)')
-    else:
-        ax2.text(0.5, 0.5, 'No space data', ha='center', va='center')
-        ax2.set_title('Average Space')
-    
-    plt.tight_layout()
-    plt.savefig(output_path, dpi=100, bbox_inches='tight')
-    plt.close()
-
 def update_readme(stats):
     """Update README.md with statistics"""
     # Create stats directory if it doesn't exist
     os.makedirs('stats', exist_ok=True)
-
-    # Generate charts
-    generate_bar_chart(stats, 'stats/problems_by_category.png')
-    generate_ring_chart(stats, 'stats/average_stats.png')
 
     # Read current README
     with open('README.md', 'r', encoding='utf-8') as f:
@@ -199,7 +140,7 @@ def update_readme(stats):
     # Create statistics section
     stats_section = f"""## 📊 LeetCode Practice Statistics
 
-*Last updated: {datetime.now().strftime("%Y-%m-%d %H:%M:%S")}*
+*Last updated: {datetime.now().strftime("%Y-%m-%d %H:%M:%S")}
 
 ### 📋 Problems Summary
 
@@ -220,21 +161,6 @@ def update_readme(stats):
             space = f"{stat['space']:.1f}" if stat['space'] is not None else "N/A"
 
             stats_section += f"| | {problem_link} | {runtime} | {space} |\n"
-
-    # Add charts
-    stats_section += f"""
-
-### 📈 Activity Overview
-
-<img src="stats/problems_by_category.png" alt="Problems by Category" width="600">
-
-### 🎯 Performance Metrics
-
-<img src="stats/average_stats.png" alt="Average Statistics" width="600">
-
----
-*Statistics generated automatically by GitHub Actions*
-"""
 
     # Insert stats section after ML/DL section
     if "## ⚡ Why ML/DL + LeetCode?" in content:
