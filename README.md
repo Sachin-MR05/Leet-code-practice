@@ -72,6 +72,6 @@ If you’re also practicing **ML/DL + DSA**, feel free to:
 
 ## 📬 Connect With Me
 
-- 💼 LinkedIn: [Your Profile Link]  
-- 🐙 GitHub: [Your GitHub Profile Link]  
-- ✉️ Email: [Your Email]  
+- 💼 LinkedIn: [Sachin-M_R](www.linkedin.com/in/mr-sachin)
+- 🐙 GitHub: [Sachin-MR05](https://github.com/Sachin-MR05)  
+- ✉️ Email: [sachin-mr@outlook.com](mailto:sachin-mr@outlook.com)  
