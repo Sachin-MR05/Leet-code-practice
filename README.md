@@ -19,7 +19,7 @@ By solving DSA problems, I’m strengthening the **computational thinking** need
 
 ## 📊 LeetCode Practice Statistics
 
-*Last updated: 2025-08-31 04:26:31*
+*Last updated: 2025-08-31 04:43:34*
 
 ### 📋 Problems Summary
 
@@ -35,7 +35,17 @@ By solving DSA problems, I’m strengthening the **computational thinking** need
 | | [0184-department-highest-salary](./pandas/0184-department-highest-salary/0184-department-highest-salary.py) | N/A | N/A |
 
 
-<<<<<<< HEAD
+### 📈 Activity Overview
+
+<img src="stats/problems_by_category.png" alt="Problems by Category" width="600">
+
+### 🎯 Performance Metrics
+
+<img src="stats/average_stats.png" alt="Average Statistics" width="600">
+
+---
+*Statistics generated automatically by GitHub Actions*
+
 ## 📈 Activity Overview
 
 ![Problems by Category](stats/problems_by_category.png)
@@ -43,7 +53,6 @@ By solving DSA problems, I’m strengthening the **computational thinking** need
 ### 🎯 Performance Metrics
 
 ![Average Statistics](stats/average_stats.png)
-=======
 ### 📈 Activity Overview
 
 <img src="stats/problems_by_category.png" alt="Problems by Category" width="600">
@@ -62,7 +71,6 @@ By solving DSA problems, I’m strengthening the **computational thinking** need
 ### 🎯 Performance Metrics
 
 <img src="stats/average_stats.png" alt="Average Statistics" width="600">
->>>>>>> f7c90bd15c0af1c03f39b54b6a5c8d0a7df3053e
 
 ---
 *Statistics generated automatically by GitHub Actions*
