@@ -19,8 +19,6 @@ By solving DSA problems, I’m strengthening the **computational thinking** need
 
 ## 📊 LeetCode Practice Statistics
 
-*Last updated: 2025-08-31 04:26:31*
-
 ### 📋 Problems Summary
 
 | Category | Problem | Runtime (s) | Space (MB) |
@@ -85,4 +83,4 @@ If you’re also practicing **ML/DL + DSA**, feel free to:
 
 - 💼 LinkedIn: [Your Profile Link]  
 - 🐙 GitHub: [Your GitHub Profile Link]  
-- ✉️ Email: [Your Email]
+- ✉️ Email: [Your Email]  
