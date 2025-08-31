@@ -173,6 +173,11 @@ def update_readme(stats):
     with open('README.md', 'r', encoding='utf-8') as f:
         content = f.read()
 
+    # Proactively remove git conflict markers to prevent duplication issues
+    lines = content.splitlines()
+    cleaned_lines = [line for line in lines if not (line.startswith('<<<<<<<') or line.startswith('=======') or line.startswith('>>>>>>>'))]
+    content = '\n'.join(cleaned_lines)
+
     # Remove old statistics section if it exists
     stats_pattern = r'## 📊 LeetCode Practice Statistics.*?(?=## |\Z)'
     content = re.sub(stats_pattern, '', content, flags=re.DOTALL)
