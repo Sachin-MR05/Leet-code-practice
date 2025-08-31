@@ -177,6 +177,12 @@ def update_readme(stats):
     stats_pattern = r'## 📊 LeetCode Practice Statistics.*?(?=## |\Z)'
     content = re.sub(stats_pattern, '', content, flags=re.DOTALL)
 
+    # Remove any duplicate statistics sections
+    content = re.sub(r'## 📋 Problems Summary.*?(?=## |\Z)', '', content, flags=re.DOTALL)
+
+    # Clean up any extra blank lines
+    content = re.sub(r'\n\n\n+', '\n\n', content)
+
     # Group stats by folder
     folder_groups = {}
     for stat in stats:
