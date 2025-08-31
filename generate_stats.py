@@ -32,9 +32,12 @@ def parse_commit_message(message):
     
     # Look for patterns like "Runtime: 100ms" or "Time: 1.5s"
     time_match = re.search(r'(?:runtime|time)[:\s]+([\d.]+)\s*(ms|s)', message.lower())
+    if not time_match:
+        # Try to match patterns like "30 ms (70.08%)"
+        time_match = re.search(r'([\d.]+)\s*ms', message.lower())
     if time_match:
         value = float(time_match.group(1))
-        unit = time_match.group(2)
+        unit = time_match.group(2) if len(time_match.groups()) > 1 else 'ms'
         if unit == 'ms':
             runtime = value / 1000  # Convert to seconds
         else:
@@ -42,12 +45,15 @@ def parse_commit_message(message):
     
     # Look for patterns like "Space: 10MB" or "Memory: 50.5MB"
     space_match = re.search(r'(?:space|memory)[:\s]+([\d.]+)\s*(MB|KB|GB)', message.lower())
+    if not space_match:
+        # Try to match patterns like "20.2 MB (66.75%)"
+        space_match = re.search(r'([\d.]+)\s*mb', message.lower())
     if space_match:
         value = float(space_match.group(1))
-        unit = space_match.group(2)
-        if unit == 'KB':
+        unit = space_match.group(2) if len(space_match.groups()) > 1 else 'mb'
+        if unit == 'kb':
             space = value / 1024  # Convert to MB
-        elif unit == 'GB':
+        elif unit == 'gb':
             space = value * 1024  # Convert to MB
         else:
             space = value

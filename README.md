@@ -19,21 +19,21 @@ By solving DSA problems, I’m strengthening the **computational thinking** need
 
 ## 📊 LeetCode Practice Statistics
 
-*Last updated: 2025-08-31 12:34:34*
+*Last updated: 2025-08-31 12:48:24*
 
 ### 📋 Problems Summary
 
 | Category | Problem | Runtime (s) | Space (MB) |
 |----------|---------|-------------|------------|
 | **[Python basics](Python%20basics)** | | | |
-| | [0001-two-sum](./Python%20basics/0001-two-sum/0001-two-sum.py) | N/A | N/A |
-| | [0238-product-of-array-except-self](./Python%20basics/0238-product-of-array-except-self/0238-product-of-array-except-self.py) | N/A | N/A |
+| | [0001-two-sum](./Python%20basics/0001-two-sum/0001-two-sum.py) | 2.05 | 13.4 |
+| | [0238-product-of-array-except-self](./Python%20basics/0238-product-of-array-except-self/0238-product-of-array-except-self.py) | 0.03 | 20.2 |
 | **[numpy](numpy)** | | | |
 | | [0048-rotate-image](./numpy/0048-rotate-image/0048-rotate-image.py) | N/A | N/A |
 | **[pandas](pandas)** | | | |
-| | [0175-combine-two-tables](./pandas/0175-combine-two-tables/0175-combine-two-tables.py) | N/A | N/A |
-| | [0178-rank-scores](./pandas/0178-rank-scores/0178-rank-scores.py) | N/A | N/A |
-| | [0184-department-highest-salary](./pandas/0184-department-highest-salary/0184-department-highest-salary.py) | N/A | N/A |
+| | [0175-combine-two-tables](./pandas/0175-combine-two-tables/0175-combine-two-tables.py) | 0.31 | 68.6 |
+| | [0178-rank-scores](./pandas/0178-rank-scores/0178-rank-scores.py) | 0.27 | 68.4 |
+| | [0184-department-highest-salary](./pandas/0184-department-highest-salary/0184-department-highest-salary.py) | 0.32 | 69.2 |
 
 ## 📆 Daily Routine
 
