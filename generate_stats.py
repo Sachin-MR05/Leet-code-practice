@@ -141,7 +141,7 @@ def update_readme(stats):
     # Create statistics section
     stats_section = f"""## 📊 LeetCode Practice Statistics
 
-*Last updated: {datetime.now().strftime("%Y-%m-%d %H:%M:%S")}
+*Last updated: {datetime.now().strftime("%Y-%m-%d %H:%M:%S")}*
 
 ### 📋 Problems Summary
 
@@ -153,8 +153,7 @@ def update_readme(stats):
     for folder, problems in folder_groups.items():
         # Add category header row
         folder_link = f"[{folder}]({folder})"
-        stats_section += f"| **{folder_link}** | | | |
-"
+        stats_section += f"| **{folder_link}** | | | |\n"
 
         # Add problems as sub-rows
         for stat in problems:
@@ -164,8 +163,7 @@ def update_readme(stats):
             runtime = f"{stat['runtime']:.2f}" if stat['runtime'] is not None else "N/A"
             space = f"{stat['space']:.1f}" if stat['space'] is not None else "N/A"
 
-            stats_section += f"| | {problem_link} | {runtime} | {space} |
-"
+            stats_section += f"| | {problem_link} | {runtime} | {space} |\n"
 
     # Insert stats section after ML/DL section
     if "## ⚡ Why ML/DL + LeetCode?" in content:
