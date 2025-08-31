@@ -60,23 +60,13 @@ def get_folder_stats():
     """Get statistics for all folders including 'others'"""
     stats = []
 
-    # Define category folders
+    # Define category folders (excluding 'others')
     category_folders = ['numpy', 'pandas', 'sklearn', 'Python basics']
-
-    # Add subdirectories of 'others' as categories
-    others_path = os.path.join('.', 'others')
-    if os.path.exists(others_path):
-        for item in os.listdir(others_path):
-            item_path = os.path.join(others_path, item)
-            if os.path.isdir(item_path):
-                category_folders.append(item)
 
     for category in sorted(category_folders):
         category_path = os.path.join('.', category)
 
-        # If category is in 'others', adjust path
-        if not os.path.exists(category_path):
-            category_path = os.path.join(others_path, category)
+        # Category path is already set correctly
 
         if os.path.exists(category_path):
             # Find all problem folders within this category
