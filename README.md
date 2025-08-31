@@ -46,16 +46,7 @@ By solving DSA problems, I’m strengthening the **computational thinking** need
 ---
 *Statistics generated automatically by GitHub Actions*
 
-## 📈 Activity Overview
 
-![Problems by Category](stats/problems_by_category.png)
-
-### 🎯 Performance Metrics
-
-![Average Statistics](stats/average_stats.png)
-
----
-*Statistics generated automatically by GitHub Actions*
 
 ## 📆 Daily Routine
 
