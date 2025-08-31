@@ -19,14 +19,14 @@ By solving DSA problems, I’m strengthening the **computational thinking** need
 
 ## 📊 LeetCode Practice Statistics
 
-*Last updated: 2025-08-31 05:10:14
+*Last updated: 2025-08-31 05:20:42*
 
 ### 📋 Problems Summary
 
 | Category | Problem | Runtime (s) | Space (MB) |
 |----------|---------|-------------|------------|
 | **[Python basics](Python basics)** | | | |
-| | [0001-two-sum](./Python basics/0001-two-sum/0001-two-sum.py) | N/A | N/A |
+| | [0001-two-sum](./Python%20basics/0001-two-sum/0001-two-sum.py) | N/A | N/A |
 | **[numpy](numpy)** | | | |
 | | [0048-rotate-image](./numpy/0048-rotate-image/0048-rotate-image.py) | N/A | N/A |
 | **[pandas](pandas)** | | | |
