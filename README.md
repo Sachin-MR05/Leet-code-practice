@@ -5,8 +5,6 @@ Here I solve **LeetCode problems** every day, especially those related to **Mach
 
 #
 
-
-
 ## ⚡ Why ML/DL + LeetCode?
 
 - 📊 **Matrix Manipulations** → Similar to **NumPy / Tensor operations**.  
@@ -19,26 +17,22 @@ By solving DSA problems, I’m strengthening the **computational thinking** need
 ---
 
 
-
-
-
-
 ## 📊 LeetCode Practice Statistics
 
-*Last updated: 2025-08-31 09:37:53*
+*Last updated: 2025-08-31 04:18:06*
 
 ### 📋 Problems Summary
 
 | Category | Problem | Runtime (s) | Space (MB) |
 |----------|---------|-------------|------------|
 | **[Python basics](Python basics)** | | | |
-| | [0001-two-sum](.\Python basics\0001-two-sum\0001-two-sum.py) | N/A | N/A |
+| | [0001-two-sum](./Python basics/0001-two-sum/0001-two-sum.py) | N/A | N/A |
 | **[numpy](numpy)** | | | |
-| | [0048-rotate-image](.\numpy\0048-rotate-image\0048-rotate-image.py) | N/A | N/A |
+| | [0048-rotate-image](./numpy/0048-rotate-image/0048-rotate-image.py) | N/A | N/A |
 | **[pandas](pandas)** | | | |
-| | [0175-combine-two-tables](.\pandas\0175-combine-two-tables\0175-combine-two-tables.py) | N/A | N/A |
-| | [0178-rank-scores](.\pandas\0178-rank-scores\0178-rank-scores.py) | N/A | N/A |
-| | [0184-department-highest-salary](.\pandas\0184-department-highest-salary\0184-department-highest-salary.py) | N/A | N/A |
+| | [0178-rank-scores](./pandas/0178-rank-scores/0178-rank-scores.py) | N/A | N/A |
+| | [0175-combine-two-tables](./pandas/0175-combine-two-tables/0175-combine-two-tables.py) | N/A | N/A |
+| | [0184-department-highest-salary](./pandas/0184-department-highest-salary/0184-department-highest-salary.py) | N/A | N/A |
 
 
 ### 📈 Activity Overview
@@ -51,6 +45,41 @@ By solving DSA problems, I’m strengthening the **computational thinking** need
 
 ---
 
+<<<<<<< HEAD
+=======
+## 📈 Activity Overview
+
+<img src="stats/problems_by_category.png" alt="Problems by Category" width="600">
+
+### 🎯 Performance Metrics
+
+<img src="stats/average_stats.png" alt="Average Statistics" width="600">
+
+---
+*Statistics generated automatically by GitHub Actions*
+
+## 📈 Activity Overview
+
+<img src="stats/problems_by_category.png" alt="Problems by Category" width="600">
+
+### 🎯 Performance Metrics
+
+<img src="stats/average_stats.png" alt="Average Statistics" width="600">
+
+---
+*Statistics generated automatically by GitHub Actions*
+
+## 📈 Activity Overview
+
+![Problems by Category](stats/problems_by_category.png)
+
+### 🎯 Performance Metrics
+
+![Average Statistics](stats/average_stats.png)
+
+---
+*Statistics generated automatically by GitHub Actions*
+>>>>>>> fd1111ca341a6074e95926a9eb262348dcdf8d8f
 
 ## 📆 Daily Routine
 
