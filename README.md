@@ -25,8 +25,8 @@ By solving DSA problems, I’m strengthening the **computational thinking** need
 
 | Category | Problem | Runtime (s) | Space (MB) |
 |----------|---------|-------------|------------|
-| **[Python basics](Python basics)** | | | |
-| | [0001-two-sum](./Python basics/0001-two-sum/0001-two-sum.py) | N/A | N/A |
+| **[Python basics]("Python basics")** | | | |
+| | [0001-two-sum](./"Python basics/0001-two-sum/0001-two-sum.py") | N/A | N/A |
 | **[numpy](numpy)** | | | |
 | | [0048-rotate-image](./numpy/0048-rotate-image/0048-rotate-image.py) | N/A | N/A |
 | **[pandas](pandas)** | | | |
@@ -46,38 +46,6 @@ By solving DSA problems, I’m strengthening the **computational thinking** need
 ---
 *Statistics generated automatically by GitHub Actions*
 
-## 📈 Activity Overview
-
-<img src="stats/problems_by_category.png" alt="Problems by Category" width="600">
-
-### 🎯 Performance Metrics
-
-<img src="stats/average_stats.png" alt="Average Statistics" width="600">
-
----
-*Statistics generated automatically by GitHub Actions*
-
-## 📈 Activity Overview
-
-<img src="stats/problems_by_category.png" alt="Problems by Category" width="600">
-
-### 🎯 Performance Metrics
-
-<img src="stats/average_stats.png" alt="Average Statistics" width="600">
-
----
-*Statistics generated automatically by GitHub Actions*
-
-## 📈 Activity Overview
-
-![Problems by Category](stats/problems_by_category.png)
-
-### 🎯 Performance Metrics
-
-![Average Statistics](stats/average_stats.png)
-
----
-*Statistics generated automatically by GitHub Actions*
 
 ## 📆 Daily Routine
 
