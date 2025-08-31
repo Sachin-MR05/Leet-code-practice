@@ -59,58 +59,63 @@ def parse_commit_message(message):
 def get_folder_stats():
     """Get statistics for all folders including 'others'"""
     stats = []
-    all_folders = []
-    
-    # Get all directories (excluding hidden ones and .github)
-    for item in os.listdir('.'):
-        if os.path.isdir(item) and not item.startswith('.') and item != '.github':
-            all_folders.append(item)
-    
-    # Include subdirectories of 'others' as well
+
+    # Define category folders
+    category_folders = ['numpy', 'pandas', 'sklearn', 'Python basics']
+
+    # Add subdirectories of 'others' as categories
     others_path = os.path.join('.', 'others')
     if os.path.exists(others_path):
         for item in os.listdir(others_path):
             item_path = os.path.join(others_path, item)
             if os.path.isdir(item_path):
-                all_folders.append(f"others/{item}")
-    
-    for folder in sorted(all_folders):
-        folder_path = folder if not folder.startswith('others/') else folder
-        if os.path.exists(folder_path):
-            # Count Python files in this folder
-            python_files = []
-            for root, dirs, files in os.walk(folder_path):
-                for file in files:
-                    if file.endswith('.py'):
-                        python_files.append(os.path.join(root, file))
-            
-            # Get stats for each problem file
-            for file_path in python_files:
-                # Extract problem name from file path
-                problem_name = os.path.basename(file_path).replace('.py', '')
-                folder_name = folder.replace('others/', '')
-                
-                # Get git log and parse for runtime/space
-                commit_messages = get_git_log_for_file(file_path)
-                runtime, space = None, None
-                
-                for msg in commit_messages:
-                    rt, sp = parse_commit_message(msg)
-                    if rt is not None:
-                        runtime = rt
-                    if sp is not None:
-                        space = sp
-                    if runtime is not None and space is not None:
-                        break
-                
-                stats.append({
-                    'folder': folder_name,
-                    'problem': problem_name,
-                    'file_path': file_path,
-                    'runtime': runtime,
-                    'space': space
-                })
-    
+                category_folders.append(item)
+
+    for category in sorted(category_folders):
+        category_path = os.path.join('.', category)
+
+        # If category is in 'others', adjust path
+        if not os.path.exists(category_path):
+            category_path = os.path.join(others_path, category)
+
+        if os.path.exists(category_path):
+            # Find all problem folders within this category
+            for item in os.listdir(category_path):
+                problem_path = os.path.join(category_path, item)
+                if os.path.isdir(problem_path):
+                    # Find Python files in this problem folder
+                    python_files = []
+                    for root, dirs, files in os.walk(problem_path):
+                        for file in files:
+                            if file.endswith('.py'):
+                                python_files.append(os.path.join(root, file))
+
+                    # Get stats for each problem file
+                    for file_path in python_files:
+                        # Extract problem name from folder name (not file name)
+                        problem_name = item
+
+                        # Get git log and parse for runtime/space
+                        commit_messages = get_git_log_for_file(file_path)
+                        runtime, space = None, None
+
+                        for msg in commit_messages:
+                            rt, sp = parse_commit_message(msg)
+                            if rt is not None:
+                                runtime = rt
+                            if sp is not None:
+                                space = sp
+                            if runtime is not None and space is not None:
+                                break
+
+                        stats.append({
+                            'folder': category,
+                            'problem': problem_name,
+                            'file_path': file_path,
+                            'runtime': runtime,
+                            'space': space
+                        })
+
     return stats
 
 def generate_bar_chart(stats, output_path):
