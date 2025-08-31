@@ -10,6 +10,7 @@ import re
 import subprocess
 from datetime import datetime
 import glob
+from urllib.parse import quote
 
 def get_git_log_for_file(filepath):
     """Get git log for a specific file to extract runtime and space info"""
@@ -152,15 +153,19 @@ def update_readme(stats):
     for folder, problems in folder_groups.items():
         # Add category header row
         folder_link = f"[{folder}]({folder})"
-        stats_section += f"| **{folder_link}** | | | |\n"
+        stats_section += f"| **{folder_link}** | | | |
+"
 
         # Add problems as sub-rows
         for stat in problems:
-            problem_link = f"[{stat['problem']}]({stat['file_path']})"
+            link_path = stat['file_path'].replace('\\', '/')
+            link_path = quote(link_path, safe='/:~.')
+            problem_link = f"[{stat['problem']}]({link_path})"
             runtime = f"{stat['runtime']:.2f}" if stat['runtime'] is not None else "N/A"
             space = f"{stat['space']:.1f}" if stat['space'] is not None else "N/A"
 
-            stats_section += f"| | {problem_link} | {runtime} | {space} |\n"
+            stats_section += f"| | {problem_link} | {runtime} | {space} |
+"
 
     # Insert stats section after ML/DL section
     if "## ⚡ Why ML/DL + LeetCode?" in content:
