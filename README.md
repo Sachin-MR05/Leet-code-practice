@@ -19,6 +19,32 @@ By solving DSA problems, I’m strengthening the **computational thinking** need
 ---
 
 
+
+## 📊 LeetCode Practice Statistics
+
+*Last updated: 2025-08-31 09:02:56*
+
+### 📋 Problems Summary
+
+| Folder | Problem | Runtime (s) | Space (MB) |
+|--------|---------|-------------|------------|
+| [Python basics](Python basics) | [0001-two-sum](Python basics\0001-two-sum\0001-two-sum.py) | N/A | N/A |
+| [numpy](numpy) | [0048-rotate-image](numpy\0048-rotate-image\0048-rotate-image.py) | N/A | N/A |
+| [pandas](pandas) | [0175-combine-two-tables](pandas\0175-combine-two-tables\0175-combine-two-tables.py) | N/A | N/A |
+| [pandas](pandas) | [0178-rank-scores](pandas\0178-rank-scores\0178-rank-scores.py) | N/A | N/A |
+| [pandas](pandas) | [0184-department-highest-salary](pandas\0184-department-highest-salary\0184-department-highest-salary.py) | N/A | N/A |
+
+### 📈 Activity Overview
+
+![Problems by Category](stats/problems_by_category.png)
+
+### 🎯 Performance Metrics
+
+![Average Statistics](stats/average_stats.png)
+
+---
+*Statistics generated automatically by GitHub Actions*
+
 ## 📊 LeetCode Practice Statistics
 
 *Last updated: 2025-08-30 11:07:33*

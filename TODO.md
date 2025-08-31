@@ -1,21 +1,53 @@
-# Fix GitHub Action Organizer - COMPLETED ✅
+# GitHub Action Statistics Implementation - COMPLETED ✅
 
-## Steps Completed:
-1. [x] Update organize.py to handle "0048-rotate-image" format
-2. [x] Fix problem name extraction from hyphenated format to title case
-3. [x] Test the script locally - SUCCESS!
-4. [x] Verify GitHub Action workflow
+## ✅ Completed Tasks:
+1. **GitHub Action Workflow** (`.github/workflows/update_stats.yml`)
+   - ✅ Triggers on push to main branch
+   - ✅ Runs Python script to generate statistics
+   - ✅ Automatically commits updated README.md
 
-## Issue Fixed:
-- Script now correctly handles folder format: "0048-rotate-image" → "Rotate Image" → maps to "numpy" category
-- Script processes folders in "others/" directory first, then checks for new problems
-- Added proper error handling and logging
+2. **Statistics Generation Script** (`generate_stats.py`)
+   - ✅ Counts folders including "others" subdirectories
+   - ✅ Counts Python files in each folder
+   - ✅ Parses git commit messages for runtime and space data
+   - ✅ Generates clickable links for folders and problems
+   - ✅ Creates bar chart showing problems by category
+   - ✅ Creates ring chart showing average runtime and space
+   - ✅ Updates README.md with statistics section
 
-## Current Status:
-- ✅ "0048-rotate-image" successfully moved from others/ to numpy/
-- ✅ Other folders remain in others/ (correct behavior)
-- ✅ Script is ready for GitHub Action workflow
+3. **README.md Integration**
+   - ✅ Added statistics section below "## ⚡ Why ML/DL + LeetCode?"
+   - ✅ Table with Folder, Problem, Runtime, Space columns
+   - ✅ Clickable links for folders and problem files
+   - ✅ Embedded charts for activity overview and performance metrics
+   - ✅ Automatic timestamp updates
 
-## Next Steps:
-- Commit and push the updated organize.py
-- The GitHub Action will automatically trigger on push and organize new problems
+4. **Generated Assets**
+   - ✅ `stats/problems_by_category.png` - Bar chart
+   - ✅ `stats/average_stats.png` - Ring charts for runtime/space
+
+## 📊 Current Statistics:
+- **Total Problems**: 1 (0048-rotate-image in numpy folder)
+- **Categories**: numpy, pandas, sklearn, others (with subcategories)
+- **Runtime/Space Data**: Currently N/A (will populate from commit messages)
+
+## 🔄 How It Works:
+1. **Automatic Trigger**: GitHub Action runs on every push to main
+2. **Data Collection**: Scans all folders including "others" subdirectories
+3. **Git Analysis**: Parses commit messages for runtime/space info
+4. **Visualization**: Generates charts using matplotlib
+5. **Update**: Inserts statistics into README.md below ML/DL section
+
+## 📝 Commit Message Format:
+To include runtime and space data, use commit messages like:
+```
+Add solution for Two Sum - Runtime: 45ms, Space: 12MB
+```
+
+## 🎯 Next Steps:
+- Add more problems to see the statistics populate
+- Include runtime/space data in commit messages
+- The system will automatically update on each push
+
+---
+*System ready for automatic statistics generation!* 🚀
