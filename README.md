@@ -25,7 +25,7 @@ By solving DSA problems, I’m strengthening the **computational thinking** need
 
 | Category | Problem | Runtime (s) | Space (MB) |
 |----------|---------|-------------|------------|
-| **[Python basics](Python basics)** | | | |
+| **[Python basics](Python%20basics)** | | | |
 | | [0001-two-sum](./Python%20basics/0001-two-sum/0001-two-sum.py) | N/A | N/A |
 | **[numpy](numpy)** | | | |
 | | [0048-rotate-image](./numpy/0048-rotate-image/0048-rotate-image.py) | N/A | N/A |
