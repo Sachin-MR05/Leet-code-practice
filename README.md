@@ -35,40 +35,6 @@ By solving DSA problems, I’m strengthening the **computational thinking** need
 | | [0184-department-highest-salary](./pandas/0184-department-highest-salary/0184-department-highest-salary.py) | N/A | N/A |
 
 
-### 📈 Activity Overview
-
-<img src="stats/problems_by_category.png" alt="Problems by Category" width="600">
-
-### 🎯 Performance Metrics
-
-<img src="stats/average_stats.png" alt="Average Statistics" width="600">
-
----
-
-<<<<<<< HEAD
-=======
-## 📈 Activity Overview
-
-<img src="stats/problems_by_category.png" alt="Problems by Category" width="600">
-
-### 🎯 Performance Metrics
-
-<img src="stats/average_stats.png" alt="Average Statistics" width="600">
-
----
-*Statistics generated automatically by GitHub Actions*
-
-## 📈 Activity Overview
-
-<img src="stats/problems_by_category.png" alt="Problems by Category" width="600">
-
-### 🎯 Performance Metrics
-
-<img src="stats/average_stats.png" alt="Average Statistics" width="600">
-
----
-*Statistics generated automatically by GitHub Actions*
-
 ## 📈 Activity Overview
 
 ![Problems by Category](stats/problems_by_category.png)
@@ -79,7 +45,6 @@ By solving DSA problems, I’m strengthening the **computational thinking** need
 
 ---
 *Statistics generated automatically by GitHub Actions*
->>>>>>> fd1111ca341a6074e95926a9eb262348dcdf8d8f
 
 ## 📆 Daily Routine
 
@@ -120,4 +85,4 @@ If you’re also practicing **ML/DL + DSA**, feel free to:
 
 - 💼 LinkedIn: [Your Profile Link]  
 - 🐙 GitHub: [Your GitHub Profile Link]  
-- ✉️ Email: [Your Email]  
+- ✉️ Email: [Your Email]
