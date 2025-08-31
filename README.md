@@ -19,7 +19,7 @@ By solving DSA problems, I’m strengthening the **computational thinking** need
 
 ## 📊 LeetCode Practice Statistics
 
-*Last updated: 2025-08-31 12:34:34*
+*Last updated: 2025-08-31 07:08:36*
 
 ### 📋 Problems Summary
 
@@ -31,8 +31,8 @@ By solving DSA problems, I’m strengthening the **computational thinking** need
 | **[numpy](numpy)** | | | |
 | | [0048-rotate-image](./numpy/0048-rotate-image/0048-rotate-image.py) | N/A | N/A |
 | **[pandas](pandas)** | | | |
-| | [0175-combine-two-tables](./pandas/0175-combine-two-tables/0175-combine-two-tables.py) | N/A | N/A |
 | | [0178-rank-scores](./pandas/0178-rank-scores/0178-rank-scores.py) | N/A | N/A |
+| | [0175-combine-two-tables](./pandas/0175-combine-two-tables/0175-combine-two-tables.py) | N/A | N/A |
 | | [0184-department-highest-salary](./pandas/0184-department-highest-salary/0184-department-highest-salary.py) | N/A | N/A |
 
 ## 📆 Daily Routine
