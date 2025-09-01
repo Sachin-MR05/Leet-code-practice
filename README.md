@@ -19,7 +19,7 @@ By solving DSA problems, I’m strengthening the **computational thinking** need
 
 ## 📊 LeetCode Practice Statistics
 
-*Last updated: 2025-08-31 07:08:36*
+*Last updated: 2025-09-01 13:24:59*
 
 ### 📋 Problems Summary
 
@@ -31,8 +31,9 @@ By solving DSA problems, I’m strengthening the **computational thinking** need
 | **[numpy](numpy)** | | | |
 | | [0048-rotate-image](./numpy/0048-rotate-image/0048-rotate-image.py) | N/A | N/A |
 | **[pandas](pandas)** | | | |
-| | [0175-combine-two-tables](./pandas/0175-combine-two-tables/0175-combine-two-tables.py) | 0.31 | 68.6 |
+| | [0049-group-anagrams](./pandas/0049-group-anagrams/0049-group-anagrams.py) | 0.02 | 16.2 |
 | | [0178-rank-scores](./pandas/0178-rank-scores/0178-rank-scores.py) | 0.27 | 68.4 |
+| | [0175-combine-two-tables](./pandas/0175-combine-two-tables/0175-combine-two-tables.py) | 0.31 | 68.6 |
 | | [0184-department-highest-salary](./pandas/0184-department-highest-salary/0184-department-highest-salary.py) | 0.32 | 69.2 |
 
 ## 📆 Daily Routine
@@ -54,8 +55,8 @@ By solving DSA problems, I’m strengthening the **computational thinking** need
 
 ## 🏆 Progress Tracking
 
-- 📅 Start Date: **[Your Date Here]**  
-- 🔢 Total Problems Solved: **X**  
+- 📅 Start Date: **[Aug 26, 2025]**  
+  
 - 🎯 Goal: **Consistency over Speed**  
 
 ---
@@ -72,6 +73,6 @@ If you’re also practicing **ML/DL + DSA**, feel free to:
 
 ## 📬 Connect With Me
 
-- 💼 LinkedIn: [Your Profile Link]  
-- 🐙 GitHub: [Your GitHub Profile Link]  
-- ✉️ Email: [Your Email]  
+- 💼 LinkedIn: [Sachin-M_R](www.linkedin.com/in/mr-sachin)
+- 🐙 GitHub: [Sachin-MR05](https://github.com/Sachin-MR05)  
+- ✉️ Email: [sachin-mr@outlook.com](mailto:sachin-mr@outlook.com)  
