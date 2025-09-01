@@ -54,8 +54,8 @@ By solving DSA problems, I’m strengthening the **computational thinking** need
 
 ## 🏆 Progress Tracking
 
-- 📅 Start Date: **[Your Date Here]**  
-- 🔢 Total Problems Solved: **X**  
+- 📅 Start Date: **[Aug 26, 2025]**  
+  
 - 🎯 Goal: **Consistency over Speed**  
 
 ---
