@@ -16,7 +16,7 @@ def get_git_log_for_file(filepath):
     """Get git log for a specific file to extract runtime and space info"""
     try:
         result = subprocess.run([
-            'git', 'log', '--follow', '--pretty=format:%s', '--', filepath
+            'git', 'log', '--follow', '--pretty=format:%B', '--', filepath
         ], capture_output=True, text=True, cwd='.')
         
         if result.returncode == 0:
