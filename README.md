@@ -19,7 +19,7 @@ By solving DSA problems, I’m strengthening the **computational thinking** need
 
 ## 📊 LeetCode Practice Statistics
 
-*Last updated: 2025-09-01 13:56:27*
+*Last updated: 2025-09-02 12:42:32*
 
 ### 📋 Problems Summary
 
@@ -31,10 +31,11 @@ By solving DSA problems, I’m strengthening the **computational thinking** need
 | **[numpy](numpy)** | | | |
 | | [0048-rotate-image](./numpy/0048-rotate-image/0048-rotate-image.py) | N/A | N/A |
 | **[pandas](pandas)** | | | |
-| | [0049-group-anagrams](./pandas/0049-group-anagrams/0049-group-anagrams.py) | 0.02 | 16.2 |
-| | [0178-rank-scores](./pandas/0178-rank-scores/0178-rank-scores.py) | 0.27 | 68.4 |
 | | [0175-combine-two-tables](./pandas/0175-combine-two-tables/0175-combine-two-tables.py) | 0.31 | 68.6 |
+| | [0178-rank-scores](./pandas/0178-rank-scores/0178-rank-scores.py) | 0.27 | 68.4 |
 | | [0184-department-highest-salary](./pandas/0184-department-highest-salary/0184-department-highest-salary.py) | 0.32 | 69.2 |
+| | [0049-group-anagrams](./pandas/0049-group-anagrams/0049-group-anagrams.py) | 0.02 | 16.2 |
+| | [0347-top-k-frequent-elements](./pandas/0347-top-k-frequent-elements/0347-top-k-frequent-elements.py) | 0.01 | 14.3 |
 
 ## 📆 Daily Routine
 
