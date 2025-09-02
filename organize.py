@@ -80,3 +80,7 @@ for item in os.listdir(base_dir):
         print(f"Moved '{item}' to '{category}/' (matched: '{problem_name}')")
     else:
         print(f"'{item}' already in correct category '{category}/'")
+
+# After organizing, run generate_stats.py to update statistics
+import generate_stats
+generate_stats.main()
