@@ -82,4 +82,6 @@ for item in os.listdir(base_dir):
         print(f"'{item}' already in correct category '{category}/'")
 
 # After organizing, run generate_stats.py to update statistics
+import generate_stats
+generate_stats.main()
 
