@@ -60,7 +60,7 @@ By solving DSA problems, I’m strengthening the **computational thinking** need
 
 - 📅 Start Date: **[Aug 26, 2025]**  
   
-- 🎯 Goal: **Consistency over Speed**  
+- 🎯 Goal:  **Consistency over Speed**  
 
 ---
 
