@@ -19,7 +19,7 @@ By solving DSA problems, I’m strengthening the **computational thinking** need
 
 ## 📊 LeetCode Practice Statistics
 
-*Last updated: 2025-09-25 06:29:08*
+*Last updated: 2025-09-25 08:36:54*
 
 ### 📋 Problems Summary
 
@@ -28,6 +28,8 @@ By solving DSA problems, I’m strengthening the **computational thinking** need
 | **[Python basics](Python%20basics)** | | | |
 | | [0001-two-sum](./Python%20basics/0001-two-sum/0001-two-sum.py) | 2.05 | 13.4 |
 | | [0238-product-of-array-except-self](./Python%20basics/0238-product-of-array-except-self/0238-product-of-array-except-self.py) | 0.03 | 20.2 |
+| **[deep_learning](deep_learning)** | | | |
+| | [0102-binary-tree-level-order-traversal](./deep_learning/0102-binary-tree-level-order-traversal/0102-binary-tree-level-order-traversal.py) | 0.00 | 13.1 |
 | **[numpy](numpy)** | | | |
 | | [0048-rotate-image](./numpy/0048-rotate-image/0048-rotate-image.py) | N/A | N/A |
 | **[pandas](pandas)** | | | |
