@@ -65,7 +65,7 @@ def get_folder_stats():
     stats = []
 
     # Define category folders (excluding 'others')
-    category_folders = ['numpy', 'pandas', 'sklearn', 'Python basics']
+    category_folders = ['numpy', 'pandas', 'sklearn', 'Python basics', 'deep_learning']
 
     for category in sorted(category_folders):
         category_path = os.path.join('.', category)
