@@ -12,7 +12,7 @@ Here I solve **LeetCode problems** every day, especially those related to **Mach
 - 🎲 **Probability & Combinatorics** → Strong foundation for **ML algorithms**.  
 - 🔄 **Dynamic Programming** → Used in **sequence models (RNNs, Transformers)**.  
 
-By solving DSA problems, I’m strengthening the **computational thinking** needed in **AI projects**.
+By solving DSA problems, I’m strengthening the **computational thinking** needed in **AI projects** .
 
 ---
 
