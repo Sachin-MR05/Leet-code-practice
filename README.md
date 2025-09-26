@@ -68,7 +68,7 @@ By solving DSA problems, I’m strengthening the **computational thinking** need
 
 ## 🤝 Contribution
 
-If you’re also practicing **ML/DL + DSA**, feel free to:
+If you’re also practicing **ML/DL + DSA**,  feel free to:
 
 - ⭐ **Star this repo**  
 - 🍴 **Fork and solve with me**  
