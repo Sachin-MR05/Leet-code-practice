@@ -88,6 +88,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0485-max-consecutive-ones](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1929-concatenation-of-array/) | Easy |
 ## Simulation
