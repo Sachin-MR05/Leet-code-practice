@@ -19,26 +19,26 @@ By solving DSA problems, I’m strengthening the **computational thinking** need
 
 ## 📊 LeetCode Practice Statistics
 
-*Last updated: 2025-10-02 17:29:38*
+*Last updated: 2026-03-17 03:44:08*
 
 ### 📋 Problems Summary
 
 | Category | Problem | Runtime (s) | Space (MB) |
 |----------|---------|-------------|------------|
 | **[Python basics](Python%20basics)** | | | |
-| | [0001-two-sum](./Python%20basics/0001-two-sum/0001-two-sum.py) | 2.05 | 13.4 |
 | | [0238-product-of-array-except-self](./Python%20basics/0238-product-of-array-except-self/0238-product-of-array-except-self.py) | 0.03 | 20.2 |
+| | [0001-two-sum](./Python%20basics/0001-two-sum/0001-two-sum.py) | 2.05 | 13.4 |
 | **[deep_learning](deep_learning)** | | | |
-| | [0102-binary-tree-level-order-traversal](./deep_learning/0102-binary-tree-level-order-traversal/0102-binary-tree-level-order-traversal.py) | 0.00 | 13.1 |
 | | [0297-serialize-and-deserialize-binary-tree](./deep_learning/0297-serialize-and-deserialize-binary-tree/0297-serialize-and-deserialize-binary-tree.py) | 0.08 | 22.7 |
+| | [0102-binary-tree-level-order-traversal](./deep_learning/0102-binary-tree-level-order-traversal/0102-binary-tree-level-order-traversal.py) | 0.00 | 13.1 |
 | | [0072-edit-distance](./deep_learning/0072-edit-distance/0072-edit-distance.py) | 0.08 | 15.7 |
 | **[numpy](numpy)** | | | |
 | | [0048-rotate-image](./numpy/0048-rotate-image/0048-rotate-image.py) | N/A | N/A |
 | **[pandas](pandas)** | | | |
-| | [0184-department-highest-salary](./pandas/0184-department-highest-salary/0184-department-highest-salary.py) | 0.32 | 69.2 |
-| | [0175-combine-two-tables](./pandas/0175-combine-two-tables/0175-combine-two-tables.py) | 0.31 | 68.6 |
 | | [0178-rank-scores](./pandas/0178-rank-scores/0178-rank-scores.py) | 0.27 | 68.4 |
 | | [0049-group-anagrams](./pandas/0049-group-anagrams/0049-group-anagrams.py) | 0.02 | 16.2 |
+| | [0175-combine-two-tables](./pandas/0175-combine-two-tables/0175-combine-two-tables.py) | 0.31 | 68.6 |
+| | [0184-department-highest-salary](./pandas/0184-department-highest-salary/0184-department-highest-salary.py) | 0.32 | 69.2 |
 | | [0347-top-k-frequent-elements](./pandas/0347-top-k-frequent-elements/0347-top-k-frequent-elements.py) | 0.01 | 14.3 |
 | **[sklearn](sklearn)** | | | |
 | | [0169-majority-element](./sklearn/0169-majority-element/0169-majority-element.py) | 0.01 | 13.5 |
