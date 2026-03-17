@@ -7,4 +7,3 @@ class Solution:
         for num in nums:
             output.append(sum(countList[:num]))
         return output
-        
