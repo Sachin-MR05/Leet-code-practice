@@ -83,3 +83,14 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 - 💼 LinkedIn: [Sachin-M_R](www.linkedin.com/in/mr-sachin)
 - 🐙 GitHub: [Sachin-MR05](https://github.com/Sachin-MR05)  
 - ✉️ Email: [sachin-mr@outlook.com](mailto:sachin-mr@outlook.com)   
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1929-concatenation-of-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1929-concatenation-of-array/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1929-concatenation-of-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1929-concatenation-of-array/) | Easy |
+<!---LeetCode Topics End-->
