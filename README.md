@@ -136,6 +136,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -143,4 +144,12 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | [0084-largest-rectangle-in-histogram](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0739-daily-temperatures](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0739-daily-temperatures/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0070-climbing-stairs/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
