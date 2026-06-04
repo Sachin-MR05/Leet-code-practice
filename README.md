@@ -164,5 +164,6 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | [0176-second-highest-salary](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0176-second-highest-salary/) | Medium |
 | [0177-nth-highest-salary](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0177-nth-highest-salary/) | Medium |
 | [0584-find-customer-referee](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0584-find-customer-referee/) | Easy |
+| [0595-big-countries](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0595-big-countries/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
