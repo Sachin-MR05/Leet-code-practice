@@ -112,6 +112,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1796-second-largest-digit-in-a-string](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -167,4 +168,8 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | [0595-big-countries](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0595-big-countries/) | Easy |
 | [1148-article-views-i](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1148-article-views-i/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1796-second-largest-digit-in-a-string](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
