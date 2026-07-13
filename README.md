@@ -172,6 +172,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | [0584-find-customer-referee](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0595-big-countries/) | Easy |
 | [1148-article-views-i](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1148-article-views-i/) | Easy |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 ## String
 | Problem Name | Difficulty |
