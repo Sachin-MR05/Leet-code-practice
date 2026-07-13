@@ -169,6 +169,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | [0181-employees-earning-more-than-their-managers](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0182-duplicate-emails](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0183-customers-who-never-order/) | Easy |
+| [0185-department-top-three-salaries](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0584-find-customer-referee](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0595-big-countries/) | Easy |
 | [1148-article-views-i](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1148-article-views-i/) | Easy |
