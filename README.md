@@ -102,6 +102,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0636-exclusive-time-of-functions](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0636-exclusive-time-of-functions/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0645-set-mismatch](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0645-set-mismatch/) | Easy |
 | [0733-flood-fill](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0739-daily-temperatures/) | Medium |
@@ -235,4 +236,8 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | [0018-4sum](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0042-trapping-rain-water/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
