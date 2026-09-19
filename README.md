@@ -90,6 +90,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0011-container-with-most-water/) | Medium |
+| [0018-4sum](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0055-jump-game](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0055-jump-game/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
@@ -129,6 +130,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0018-4sum](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0018-4sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0645-set-mismatch](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -226,5 +228,6 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0011-container-with-most-water/) | Medium |
+| [0018-4sum](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
