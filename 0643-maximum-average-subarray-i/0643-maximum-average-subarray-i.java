@@ -9,17 +9,17 @@ class Solution {
         for(int i =0;i<k;i++){
             sum+=nums[i];
         }
-        salary = sum/k;
+        salary = sum;
         while(r < nums.length-1){
             sum-= nums[l];
             r++;
             l++;
             sum+=nums[r];
 
-            double csalary = sum/k;
+            double csalary = sum;
             salary = Math.max(salary,csalary);
         }
 
-       return salary;    
+       return salary/k;    
     }
 }
