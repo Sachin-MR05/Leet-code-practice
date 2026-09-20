@@ -100,6 +100,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | [0189-rotate-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0189-rotate-array/) | Medium |
 | [0200-number-of-islands](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0636-exclusive-time-of-functions](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0636-exclusive-time-of-functions/) | Medium |
@@ -132,6 +133,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0645-set-mismatch](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0645-set-mismatch/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -246,6 +248,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | [0061-rotate-list](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0189-rotate-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0189-rotate-array/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -261,4 +264,13 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0141-linked-list-cycle/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
