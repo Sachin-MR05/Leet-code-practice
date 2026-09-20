@@ -241,6 +241,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | [0018-4sum](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0042-trapping-rain-water/) | Hard |
+| [0061-rotate-list](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0189-rotate-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0189-rotate-array/) | Medium |
 ## Sliding Window
@@ -251,6 +252,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0141-linked-list-cycle/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
