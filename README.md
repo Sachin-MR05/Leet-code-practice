@@ -94,6 +94,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0055-jump-game](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0055-jump-game/) | Medium |
+| [0075-sort-colors](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0075-sort-colors/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0118-pascals-triangle](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0118-pascals-triangle/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -140,6 +141,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0018-4sum](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0018-4sum/) | Medium |
+| [0075-sort-colors](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0075-sort-colors/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0645-set-mismatch](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0645-set-mismatch/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0881-boats-to-save-people/) | Medium |
@@ -249,6 +251,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0061-rotate-list/) | Medium |
+| [0075-sort-colors](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0075-sort-colors/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0189-rotate-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0189-rotate-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -281,4 +284,12 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0881-boats-to-save-people](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0881-boats-to-save-people/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
