@@ -95,6 +95,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | [0042-trapping-rain-water](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0055-jump-game](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0056-merge-intervals/) | Medium |
+| [0057-insert-interval](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0057-insert-interval/) | Medium |
 | [0075-sort-colors](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0075-sort-colors/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0118-pascals-triangle](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0118-pascals-triangle/) | Easy |
