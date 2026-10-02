@@ -112,6 +112,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | [0733-flood-fill](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0739-daily-temperatures/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0881-boats-to-save-people/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0994-rotting-oranges](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0994-rotting-oranges/) | Medium |
 | [1046-last-stone-weight](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1046-last-stone-weight/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -134,6 +135,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0645-set-mismatch/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 ## Bit Manipulation
@@ -270,6 +272,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | [0424-longest-repeating-character-replacement](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
