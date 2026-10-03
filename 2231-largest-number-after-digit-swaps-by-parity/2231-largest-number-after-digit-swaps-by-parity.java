@@ -3,7 +3,7 @@ class Solution {
           PriorityQueue<Character> odd = new PriorityQueue<>(Collections.reverseOrder());
           PriorityQueue<Character> even = new PriorityQueue<>(Collections.reverseOrder());
 
-          String str = ""+num;
+          String str = Integer.toString(num);
           char[] arr = str.toCharArray();
 
         for(char ch:arr){
