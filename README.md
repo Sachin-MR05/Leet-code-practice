@@ -153,6 +153,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | [0645-set-mismatch](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0645-set-mismatch/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0881-boats-to-save-people/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -227,6 +228,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [1046-last-stone-weight](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1046-last-stone-weight/) | Easy |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
