@@ -224,10 +224,12 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [1046-last-stone-weight](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1046-last-stone-weight/) | Easy |
 | [1405-longest-happy-string](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1405-longest-happy-string/) | Medium |
@@ -281,6 +283,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0061-rotate-list](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0141-linked-list-cycle/) | Easy |
 ## Floyd's Cycle Finding Algorithm
@@ -309,4 +312,12 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0075-sort-colors/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Tournament Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
