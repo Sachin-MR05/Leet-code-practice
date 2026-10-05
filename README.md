@@ -104,6 +104,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | [0200-number-of-islands](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -132,6 +133,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | [0001-two-sum](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0141-linked-list-cycle/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -151,6 +153,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | [0056-merge-intervals](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0075-sort-colors/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0645-set-mismatch](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0645-set-mismatch/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0881-boats-to-save-people/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -158,6 +161,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -227,11 +231,13 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [1046-last-stone-weight](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1046-last-stone-weight/) | Easy |
 | [1405-longest-happy-string](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1405-longest-happy-string/) | Medium |
@@ -240,6 +246,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -322,4 +329,8 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
