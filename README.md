@@ -104,6 +104,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | [0200-number-of-islands](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0636-exclusive-time-of-functions](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0636-exclusive-time-of-functions/) | Medium |
@@ -231,6 +232,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [1046-last-stone-weight](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1046-last-stone-weight/) | Easy |
 | [1405-longest-happy-string](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1405-longest-happy-string/) | Medium |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
