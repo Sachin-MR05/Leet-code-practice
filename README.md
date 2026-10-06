@@ -103,6 +103,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | [0189-rotate-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0189-rotate-array/) | Medium |
 | [0200-number-of-islands](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0283-move-zeroes](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
@@ -293,6 +294,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | [0075-sort-colors](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0075-sort-colors/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0189-rotate-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0189-rotate-array/) | Medium |
+| [0283-move-zeroes](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0881-boats-to-save-people/) | Medium |
 ## Sliding Window
