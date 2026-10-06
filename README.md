@@ -115,6 +115,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | [0739-daily-temperatures](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0739-daily-temperatures/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0881-boats-to-save-people/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0994-rotting-oranges](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0994-rotting-oranges/) | Medium |
 | [1046-last-stone-weight](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1046-last-stone-weight/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -156,6 +157,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | [0347-top-k-frequent-elements](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0645-set-mismatch](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0645-set-mismatch/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0881-boats-to-save-people/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
 ## Counting Sort
@@ -179,6 +181,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | [0070-climbing-stairs](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0189-rotate-array/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -232,6 +235,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | [0023-merge-k-sorted-lists](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -239,6 +243,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | [0215-kth-largest-element-in-an-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1046-last-stone-weight/) | Easy |
 | [1405-longest-happy-string](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1405-longest-happy-string/) | Medium |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
@@ -247,6 +252,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -333,4 +339,12 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## K-D Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0973-k-closest-points-to-origin/) | Medium |
 <!---LeetCode Topics End-->
