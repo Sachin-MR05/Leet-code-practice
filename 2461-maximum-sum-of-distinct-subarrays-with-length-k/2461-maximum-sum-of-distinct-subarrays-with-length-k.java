@@ -51,7 +51,7 @@ class Solution {
             set.remove(nums[l]);
             l++;
         }
-        if(r - l + 1 == k && set.size() == k)
+        if(set.size() == k)
         max = Math.max(max,sum);
     }
     return max;
