@@ -5,6 +5,7 @@ class Solution {
         
         Arrays.sort(nums);
         for(int i =0;i<length-3;i++){
+            if (i > 0 && nums[i] == nums[i - 1]) continue;
             for(int j =i+1;j<length -2;j++){
                 int left = j+1;
                 int right= length-1;
