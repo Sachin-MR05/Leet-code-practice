@@ -108,6 +108,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0636-exclusive-time-of-functions](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0645-set-mismatch](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0645-set-mismatch/) | Easy |
@@ -139,6 +140,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | [0424-longest-repeating-character-replacement](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0645-set-mismatch](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0645-set-mismatch/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -358,4 +360,8 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0692-top-k-frequent-words/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 <!---LeetCode Topics End-->
