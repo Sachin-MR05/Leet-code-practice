@@ -7,7 +7,7 @@ class Solution {
             sum+=nums[i];
             int remainder = sum % k;
             if(map.containsKey(remainder)){
-                if(i - map.get(remainder) >= 2){
+                if(i - map.get(remainder) > 1){
                     return true ;
                 }
             }
