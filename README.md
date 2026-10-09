@@ -116,6 +116,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | [0643-maximum-average-subarray-i](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0645-set-mismatch](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0645-set-mismatch/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0733-flood-fill](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0739-daily-temperatures/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0881-boats-to-save-people/) | Medium |
@@ -317,6 +318,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0713-subarray-product-less-than-k](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
@@ -335,6 +337,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
@@ -385,6 +388,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | [0238-product-of-array-except-self](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1314-matrix-block-sum](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1314-matrix-block-sum/) | Medium |
 <!---LeetCode Topics End-->
