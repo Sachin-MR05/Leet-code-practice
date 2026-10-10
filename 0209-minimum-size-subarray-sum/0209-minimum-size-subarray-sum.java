@@ -7,7 +7,7 @@ class Solution {
 
         while(r<nums.length){
             sum +=nums[r];
-            if(max==0 && r-l+1 !=0 && sum>=target) max = r-l +1;
+            if(max==0 && sum>=target) max = r-l +1;
             while(sum >= target){
             max = Math.min(max,r-l+1);
             sum-=nums[l];
