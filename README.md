@@ -102,6 +102,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0189-rotate-array/) | Medium |
 | [0200-number-of-islands](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0200-number-of-islands/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0283-move-zeroes/) | Easy |
@@ -314,6 +315,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0567-permutation-in-string/) | Medium |
@@ -336,6 +338,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -385,6 +388,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
