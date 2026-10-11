@@ -11,8 +11,8 @@ class Solution {
         }
 
         List<Integer> res = new ArrayList<>();
-for(int offset =0; offset <sl; offset++){
         Map<String, Integer> check = new HashMap<>();
+for(int offset =0; offset <sl; offset++){
         int l = offset;
         int r = offset;
         int count =0;
@@ -44,7 +44,7 @@ for(int offset =0; offset <sl; offset++){
             }
             r+=sl;
         }
-        //check.clear();
+        check.clear();
 }
         return res;
     }
