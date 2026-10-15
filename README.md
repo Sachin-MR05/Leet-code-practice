@@ -123,6 +123,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | [0881-boats-to-save-people](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0881-boats-to-save-people/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [0994-rotting-oranges](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1046-last-stone-weight](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1046-last-stone-weight/) | Easy |
@@ -156,6 +157,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | [0645-set-mismatch](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0645-set-mismatch/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
@@ -183,6 +185,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -328,6 +331,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | [0643-maximum-average-subarray-i](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Linked List
