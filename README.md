@@ -136,6 +136,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | [1470-shuffle-the-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1470-shuffle-the-array/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1929-concatenation-of-array/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -182,6 +183,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | [0881-boats-to-save-people](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0881-boats-to-save-people/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -359,6 +361,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | [0287-find-the-duplicate-number](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
