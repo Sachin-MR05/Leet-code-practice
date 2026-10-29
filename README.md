@@ -122,6 +122,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | [0645-set-mismatch](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0645-set-mismatch/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0724-find-pivot-index](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0724-find-pivot-index/) | Easy |
 | [0733-flood-fill](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0739-daily-temperatures/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0881-boats-to-save-people/) | Medium |
@@ -417,6 +418,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | [0523-continuous-subarray-sum](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0724-find-pivot-index](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0724-find-pivot-index/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1314-matrix-block-sum](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1314-matrix-block-sum/) | Medium |
