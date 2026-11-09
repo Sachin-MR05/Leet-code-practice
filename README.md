@@ -95,6 +95,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0042-trapping-rain-water/) | Hard |
+| [0053-maximum-subarray](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0057-insert-interval/) | Medium |
@@ -225,6 +226,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0042-trapping-rain-water/) | Hard |
+| [0053-maximum-subarray](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0118-pascals-triangle/) | Easy |
@@ -269,6 +271,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0053-maximum-subarray](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0973-k-closest-points-to-origin/) | Medium |
