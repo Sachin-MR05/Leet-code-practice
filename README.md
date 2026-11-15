@@ -141,6 +141,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | [1441-build-an-array-with-stack-operations](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1470-shuffle-the-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1470-shuffle-the-array/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1929-concatenation-of-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
@@ -234,6 +235,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | [0118-pascals-triangle](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0118-pascals-triangle/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
