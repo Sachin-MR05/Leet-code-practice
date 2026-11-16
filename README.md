@@ -245,6 +245,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0055-jump-game/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0881-boats-to-save-people/) | Medium |
 | [1405-longest-happy-string](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1405-longest-happy-string/) | Medium |
 ## Database
@@ -272,6 +273,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | [0424-longest-repeating-character-replacement](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0567-permutation-in-string/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1405-longest-happy-string](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1405-longest-happy-string/) | Medium |
 | [1796-second-largest-digit-in-a-string](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
@@ -341,6 +343,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | [0287-find-the-duplicate-number](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0344-reverse-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0567-permutation-in-string/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0881-boats-to-save-people/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
