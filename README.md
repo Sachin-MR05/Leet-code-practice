@@ -267,6 +267,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0076-minimum-window-substring](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0076-minimum-window-substring/) | Hard |
+| [0344-reverse-string](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0344-reverse-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0567-permutation-in-string/) | Medium |
@@ -336,6 +337,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | [0189-rotate-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0344-reverse-string](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0344-reverse-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0567-permutation-in-string/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0881-boats-to-save-people/) | Medium |
 ## Sliding Window
