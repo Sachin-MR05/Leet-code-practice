@@ -228,6 +228,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0055-jump-game/) | Medium |
@@ -266,6 +267,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0076-minimum-window-substring](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0125-valid-palindrome/) | Easy |
@@ -330,6 +332,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0011-container-with-most-water/) | Medium |
 | [0018-4sum](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
@@ -453,4 +456,8 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0239-sliding-window-maximum/) | Hard |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
