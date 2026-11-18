@@ -8,7 +8,7 @@ class Solution {
 
 
         long left = 1;
-        long right = x;
+        long right = x/2;
         long ans  =0;
 
         while(left <= right){
