@@ -1,21 +1,21 @@
 class Solution {
+    static int count = 0;
     public int countSubstrings(String s) {
-    int count = 0;
         for(int i = 0;i<s.length();i++){
 
-            count += palCount(s,i,i);
-            count += palCount(s,i,i+1);            
+            palCount(s,i,i);
+            palCount(s,i,i+1);            
         }
-        return count;
+        int num = count;
+        count = 0;
+        return num;
     }
 
-    static int palCount(String s, int l,int r){
-        int count = 0;
+    static void palCount(String s, int l,int r){
         while(l>=0 && r<s.length() &&  s.charAt(l) == s.charAt(r)){
             count++;
             l--;
             r++;
         }
-        return count;
     }
 }
