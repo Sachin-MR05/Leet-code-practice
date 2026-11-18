@@ -2,7 +2,6 @@ class Solution {
     public int searchInsert(int[] nums, int target) {
         int left = 0;
         int right = nums.length -1;
-        int num = left;
         int mid = 0;
         while(left <= right){
             mid = left + (right-left)/2;
