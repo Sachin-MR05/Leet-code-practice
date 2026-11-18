@@ -123,6 +123,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | [0643-maximum-average-subarray-i](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0645-set-mismatch](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0645-set-mismatch/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0704-binary-search](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0724-find-pivot-index/) | Easy |
 | [0733-flood-fill](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0733-flood-fill/) | Easy |
@@ -387,6 +388,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0704-binary-search](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
