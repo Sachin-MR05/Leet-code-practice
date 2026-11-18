@@ -214,6 +214,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0189-rotate-array/) | Medium |
@@ -385,6 +386,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0069-sqrtx/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -465,4 +467,8 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
