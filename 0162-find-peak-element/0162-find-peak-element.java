@@ -9,9 +9,9 @@ class Solution {
 
             if(mid+1 < nums.length && nums[mid]< nums[mid+1]) left = mid + 1;
 
-            // else if(mid-1 >=0 && nums[mid]< nums[mid-1]) right = mid-1;
+            else if(mid-1 >=0 && nums[mid]< nums[mid-1]) right = mid-1;
 
-            else right = mid;
+            else return mid;
         }
         return left;
 
