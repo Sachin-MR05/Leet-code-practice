@@ -106,6 +106,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0162-find-peak-element](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0162-find-peak-element/) | Medium |
 | [0189-rotate-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0189-rotate-array/) | Medium |
 | [0200-number-of-islands](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -390,6 +391,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | [0035-search-insert-position](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0069-sqrtx/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0162-find-peak-element](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0162-find-peak-element/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0704-binary-search](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0704-binary-search/) | Easy |
