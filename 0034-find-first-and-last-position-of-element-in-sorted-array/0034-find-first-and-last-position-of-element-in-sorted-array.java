@@ -7,7 +7,7 @@ class Solution {
         
         return res;
 
-    }
+    }                                      
 
     public static int check(int[] nums, int target, boolean isFirst){
         int left = 0;
@@ -36,5 +36,16 @@ class Solution {
 
         }
         return bound;
+
+    //Brut Force
+
+    // int[] res = {-1,-1};
+    // for(int i =0;i<nums.length;i++){
+    //     if(nums[i]==target){
+    //         if(res[0]==-1) res[0]=i;
+    //         res[1]=i;
+    //     }
+    // }
+    // return res;
     }
 }
