@@ -1,9 +1,9 @@
 class Solution {
     public boolean checkString(String s) {
         boolean b = false;
-        for(char ch:s.toCharArray()){
-            if(ch == 'b') b = true;
-            if(ch == 'a' && b == true) {
+        for(int i =0;i<s.length();i++){
+            if(s.charAt(i) == 'b') b = true;
+            if(s.charAt(i) == 'a' && b == true) {
                 return false;
                 
             }
