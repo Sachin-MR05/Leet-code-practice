@@ -285,6 +285,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | [0692-top-k-frequent-words](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1405-longest-happy-string](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1405-longest-happy-string/) | Medium |
 | [1796-second-largest-digit-in-a-string](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
