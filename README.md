@@ -140,6 +140,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | [1004-max-consecutive-ones-iii](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1046-last-stone-weight](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1046-last-stone-weight/) | Easy |
 | [1314-matrix-block-sum](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1314-matrix-block-sum/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1470-shuffle-the-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1470-shuffle-the-array/) | Easy |
@@ -222,6 +223,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | [0189-rotate-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0189-rotate-array/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -454,6 +456,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1314-matrix-block-sum](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1314-matrix-block-sum/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -476,4 +479,12 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0069-sqrtx/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 <!---LeetCode Topics End-->
