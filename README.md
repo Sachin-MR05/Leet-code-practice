@@ -149,6 +149,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | [1929-concatenation-of-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1929-concatenation-of-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -224,6 +225,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | [0523-continuous-subarray-sum](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1352-product-of-the-last-k-numbers](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -375,6 +377,7 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | [0992-subarrays-with-k-different-integers](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -487,4 +490,12 @@ If you’re also practicing **ML/DL + DSA**,  feel free to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Sachin-MR05/Leet-code-practice/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 <!---LeetCode Topics End-->
